@@ -27,10 +27,26 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 
 ## Blogs and Guides
 
-1. []()
+1. [AIMultiple's blog on Large Language Models: Complete Guide in 2023](https://research.aimultiple.com/large-language-models/)
 2. [Cohere Docs](https://docs.cohere.ai/docs/introduction-to-large-language-models)
 
-## Tutorials
+
+## Important Papers
+
+
+## Reading Groups
+
+1. [Wiki CLSP, NLP Reading Group](https://wiki.clsp.jhu.edu/index.php/NLP_Reading_Group), a list of reading groups related to NLP which is updated frequently.
+
+## Tutorials and Talks
+
+
+### Upcoming Talks
+
+1. [25th April 2023, Arize: Observe](https://app.hopin.com/events/arize-observe/reception)
+2. [27th April 2023, Fine-Tuning LLMs with PyTorch 2.0 and ChatGPT](https://www.eventbrite.com/e/fine-tuning-llms-with-pytorch-20-and-chatgpt-tickets-613395140377)
+
+
 
 ## Notebooks
 
@@ -46,6 +62,8 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 
 ## LLM Influencers 
 
-*Researchers/Founders/Developers/AI Content Creators involved in LLM production/research/development*
+*People you should definitely follow to keep updated about LLMs. Researchers/Founders/Developers/AI Content Creators involved in LLM production/research/development*
 
-
+1. [Sebastian Raschka](https://twitter.com/rasbt), he is a legend and will burst your hype-up LLM bubble with his amazing tweets, blogs and tutorials. Subscribe to his newsletter [Ahead of AI](https://magazine.sebastianraschka.com/)
+2. [Andrej Karpathy](https://twitter.com/karpathy), so this legend worked in Tesla, took a break, started his YouTube channel to teach the fundamentals and blew us all with his amazing video on [implementing GPT from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2771s) and finally rejoined OpenAI. I guess you cannot lose a legend :D  
+3. [Jay Alammar](https://twitter.com/jayalammar), yup if you don't know about his ELI blog on Transformers go read that out first and be sure to follow him for updates.
