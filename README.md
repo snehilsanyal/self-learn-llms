@@ -33,6 +33,9 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 
 ## Important Papers
 
+1. [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) Also check out this Repo: https://github.com/RUCAIBox/LLMSurvey
+2. [Understanding Large Language Models -- A Transformative Reading List, Sebastian Raschka](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+3. 
 
 ## Reading Groups
 
@@ -67,3 +70,4 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 1. [Sebastian Raschka](https://twitter.com/rasbt), he is a legend and will burst your hype-up LLM bubble with his amazing tweets, blogs and tutorials. Subscribe to his newsletter [Ahead of AI](https://magazine.sebastianraschka.com/)
 2. [Andrej Karpathy](https://twitter.com/karpathy), so this legend worked in Tesla, took a break, started his YouTube channel to teach the fundamentals and blew us all with his amazing video on [implementing GPT from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2771s) and finally rejoined OpenAI. I guess you cannot lose a legend :D  
 3. [Jay Alammar](https://twitter.com/jayalammar), yup if you don't know about his ELI blog on Transformers go read that out first and be sure to follow him for updates.
+4. [Tomaz Bratanic](https://twitter.com/tb_tomaz), he is the author of famous book Graph Algorithms for Data Science, and currently writes great blogs on Medium related to GPT, Langchain and stuff.
