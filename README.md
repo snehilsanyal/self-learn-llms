@@ -27,8 +27,12 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 
 ## Blogs and Guides
 
+**[Langchain Blogs](https://blog.langchain.dev/)**
+
 1. [AIMultiple's blog on Large Language Models: Complete Guide in 2023](https://research.aimultiple.com/large-language-models/)
 2. [Cohere Docs](https://docs.cohere.ai/docs/introduction-to-large-language-models)
+3. [FutureSmart AI Blog on Building Chatbots using LangChain and ChatGPT](https://blog.futuresmart.ai/building-chatbot-using-langchain-and-chatgpt)
+
 
 
 ## Important Papers
@@ -43,6 +47,9 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 
 ## Tutorials and Talks
 
+### TED Talks
+1. [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://www.youtube.com/watch?v=C_78DM8fG6E)
+2. [Why AI Is Incredibly Smart — and Shockingly Stupid | Yejin Choi | TED](https://www.youtube.com/watch?v=SvBR0OGT5VI)
 
 ### Upcoming Talks
 
@@ -55,7 +62,15 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 
 ## Libraries and Frameworks
 
-## Models
+
+
+## Language Models
+
+1. [ChatGPT, OpenAI, Released 30th November 2022](https://chat.openai.com/)
+2. [Google Bard, Released 21st March 2023](https://bard.google.com/)
+3. [Tongyi Qianwen AI, Alibaba, Released 11th April 2023](https://tongyi.aliyun.com/)
+4. [StableLM, Stability AI, Released 20th April 2023](https://github.com/Stability-AI/StableLM)
+5. [HuggingChat, HuggingFaces, Released 25th April 2023](https://huggingface.co/chat/)
 
 ## Communities
 
