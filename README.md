@@ -58,10 +58,20 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 
 
 
-## Notebooks
+## Datasets, Notebooks and Spaces
+
+### Datasets
+
+### Notebooks
+
+### Spaces
+1. [H2O Organization, HuggingFaces](https://huggingface.co/h2oai)
+2. [OpenAssistant Organization, HuggingFaces](https://huggingface.co/OpenAssistant)
+3. [DataBricks Organization, HuggingFaces](https://huggingface.co/databricks)
 
 ## Libraries and Frameworks
-
+1. [LLMStudio, H2O AI](https://github.com/h2oai/h2o-llmstudio)
+2. 
 
 
 ## Language Models
@@ -70,7 +80,9 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 2. [Google Bard, Released 21st March 2023](https://bard.google.com/)
 3. [Tongyi Qianwen AI, Alibaba, Released 11th April 2023](https://tongyi.aliyun.com/)
 4. [StableLM, Stability AI, Released 20th April 2023](https://github.com/Stability-AI/StableLM)
-5. [HuggingChat, HuggingFaces, Released 25th April 2023](https://huggingface.co/chat/)
+5. [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
+6. [HuggingChat, HuggingFaces, Released 25th April 2023](https://huggingface.co/chat/)
+7. [H2OGPT](https://github.com/h2oai/h2ogpt)
 
 ## Communities
 
