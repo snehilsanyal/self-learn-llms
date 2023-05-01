@@ -68,6 +68,9 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 1. [H2O Organization, HuggingFaces](https://huggingface.co/h2oai)
 2. [OpenAssistant Organization, HuggingFaces](https://huggingface.co/OpenAssistant)
 3. [DataBricks Organization, HuggingFaces](https://huggingface.co/databricks)
+4. [BigScience Organization, HuggingFaces](https://bigscience.huggingface.co/)
+5. [EleutherAI Organization, HuggingFaces](https://huggingface.co/EleutherAI)
+6. [NomicAI Organization, HuggingFaces](https://huggingface.co/nomic-ai)
 
 ## Libraries and Frameworks
 1. [LLMStudio, H2O AI](https://github.com/h2oai/h2o-llmstudio)
@@ -83,6 +86,12 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 5. [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
 6. [HuggingChat, HuggingFaces, Released 25th April 2023](https://huggingface.co/chat/)
 7. [H2OGPT](https://github.com/h2oai/h2ogpt)
+8. [Bloom Model, Commercial Use Allowed with RAIL](https://huggingface.co/docs/transformers/model_doc/bloom)
+9. [GPT-J, EleutherAI, Apache 2.0](https://huggingface.co/docs/transformers/model_doc/gptj)
+10. [GPT-NeoX, EleutherAI, Apache 2.0](https://huggingface.co/docs/transformers/model_doc/gpt_neox)
+11. [GPT4All, NomicAI, MIT License](https://github.com/nomic-ai/gpt4all)
+12. [GPT4All-J, NomicAI, MIT License](https://huggingface.co/nomic-ai/gpt4all-j)
+13. [Pythia, EleutherAI, MIT License](https://github.com/EleutherAI/pythia)
 
 ## Communities
 
