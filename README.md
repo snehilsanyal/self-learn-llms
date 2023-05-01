@@ -71,10 +71,12 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 4. [BigScience Organization, HuggingFaces](https://bigscience.huggingface.co/)
 5. [EleutherAI Organization, HuggingFaces](https://huggingface.co/EleutherAI)
 6. [NomicAI Organization, HuggingFaces](https://huggingface.co/nomic-ai)
+7. [Cerebras Organization, HuggingFaces](https://huggingface.co/cerebras)
 
 ## Libraries and Frameworks
 1. [LLMStudio, H2O AI](https://github.com/h2oai/h2o-llmstudio)
-2. 
+2. [LLamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html#ecosystem)
+
 
 
 ## Language Models
@@ -92,12 +94,24 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 11. [GPT4All, NomicAI, MIT License](https://github.com/nomic-ai/gpt4all)
 12. [GPT4All-J, NomicAI, MIT License](https://huggingface.co/nomic-ai/gpt4all-j)
 13. [Pythia, EleutherAI, MIT License](https://github.com/EleutherAI/pythia)
+14. [GLM-130B](https://github.com/THUDM/GLM-130B)
+15. [PaLM, Google](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+16. [OPT, Meta](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT)
+17. [FLAN-T5](https://huggingface.co/docs/transformers/model_doc/flan-t5)
+18. [LLaMA, Meta](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+19. [Alpaca, Stanford](https://github.com/tatsu-lab/stanford_alpaca)
+20. [Vicuna, lm-sys](https://github.com/lm-sys/FastChat)
 
 ## Communities
 
 ## Usecases 
+1. [ShareGPT](https://sharegpt.com/)
 
 ## Projects and Ideas
+
+## Autonomous Agents
+1. [BabyAGI](https://github.com/yoheinakajima/babyagi)
+2. [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
 ## LLM Influencers 
 
