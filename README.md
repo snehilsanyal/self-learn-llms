@@ -32,6 +32,8 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 1. [AIMultiple's blog on Large Language Models: Complete Guide in 2023](https://research.aimultiple.com/large-language-models/)
 2. [Cohere Docs](https://docs.cohere.ai/docs/introduction-to-large-language-models)
 3. [FutureSmart AI Blog on Building Chatbots using LangChain and ChatGPT](https://blog.futuresmart.ai/building-chatbot-using-langchain-and-chatgpt)
+4. [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
+
 
 
 
@@ -73,9 +75,12 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 6. [NomicAI Organization, HuggingFaces](https://huggingface.co/nomic-ai)
 7. [Cerebras Organization, HuggingFaces](https://huggingface.co/cerebras)
 
-## Libraries and Frameworks
+## Libraries, Frameworks and Toolkits
 1. [LLMStudio, H2O AI](https://github.com/h2oai/h2o-llmstudio)
 2. [LLamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html#ecosystem)
+3. [NeMo Guardrails, NVIDIA, to prevent hallucinations and add programmable guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
+4. [MLC LLM, Develop optimize and deploy LLMs natively on everyone's devices](https://github.com/mlc-ai/mlc-llm))
+5. [LaMini LLM](https://github.com/lamini-ai/lamini)
 
 
 
@@ -108,6 +113,13 @@ For this, I will include a mix of theoretical plus practical resources to learn.
 1. [ShareGPT](https://sharegpt.com/)
 
 ## Projects and Ideas
+
+## Vector Databases
+1. [Pinecone](https://www.pinecone.io/)
+2. [Weaviate](https://weaviate.io/)
+3. [Milvus](https://milvus.io/)
+4. [ChromaDB](https://www.trychroma.com/)
+
 
 ## Autonomous Agents
 1. [BabyAGI](https://github.com/yoheinakajima/babyagi)
