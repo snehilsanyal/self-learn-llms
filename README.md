@@ -1,4 +1,4 @@
-# Self Learning LLMs
+# Self Learn LLMs
 
 This repository constitutes some of the resources which I will use to learn about Large Language Models. I will also try to come up with a roadmap as I go forward in this self-learning journey, since a clear roadmap with milestones will be one of the best ways to learn about LLMs in a proper manner.
 
