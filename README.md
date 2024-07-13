@@ -1,14 +1,17 @@
 # Self Learn LLMs
 
-This repository constitutes some of the resources which I will use to learn about Large Language Models. I will also try to come up with a roadmap as I go forward in this self-learning journey, since a clear roadmap with milestones will be one of the best ways to learn about LLMs in a proper manner.
+This repository constitutes some of the resources which I will use to learn about Large Language Models. I will also try to come up with a roadmap as I go forward in this self-learning journey, since a clear roadmap with milestones will be one of the best ways to learn about LLMs in a proper manner. 
 
 For this, I will include a mix of theoretical and practical hands-on resources to learn.
+
+**PS:** Need to make this more visual 
 
 ## Courses
 
 ### NLP Fundamentals
 
 1. [CS224N Natural Language Processing with Deep Learning, Stanford](https://web.stanford.edu/class/cs224n/)
+2. [Natural Language Processing Specialization, Coursera](https://www.coursera.org/specializations/natural-language-processing)
 
 ### Transformers
 
@@ -19,30 +22,37 @@ For this, I will include a mix of theoretical and practical hands-on resources t
 
 <details>
   <summary><b>Industrial and Open-Source courses</b></summary>
-  1. [Activeloop Learn](https://learn.activeloop.ai/), this initiative GenAI360 provides 3 free courses on RAGs, fine-tuning LLMs, LangChain and VectorDBs.
-  2. [LLM Course by Maxime Labonne](https://github.com/mlabonne/llm-course), this repository hosts the complete roadmap, notebooks for getting into LLMs.
-  3. [Full Stack Deep Learning](https://fullstackdeeplearning.com/llm-bootcamp/), started out as a deep learning bootcamp and evolved into LLM bootcamp around April 2023, now is free to take up.
-  4. [LLM University by Cohere](https://docs.cohere.com/docs/llmu), this course consists of 8 modules taught by the famous Luis Serrano, who is known for teaching concepts in a easy and visually appealing manner. The course contains topics like fundamentals, deployment, semantic search and RAG.
-  5. [Applied LLMs Mastery 2024 Course by Aishwarya N Reganti](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/Applied_LLMs_Mastery_2024), free 10 weeks course with a definite roadmap ranging from LLM Fundamentals, Tools and techniques, Deployment and evaluation to Challenges and future trends.
-  6. [Weights and Biases Courses](https://www.wandb.courses/collections), provides different courses on MLOps, LLM Powered Apps etc.
-  7. [LLM Models course, DataBricks x ed](https://www.edx.org/certificates/professional-certificate/databricks-large-language-models), professional certification by DataBricks.
-  8. [Deeplearning.ai](https://www.deeplearning.ai/short-courses/) offers various short courses on LLMs like LangChain for LLM App Development, Serverless LLMs with AWS Bedrock, Fine-tuning LLMs, LLMs with Semantic Search etc.
-  9. [Introduction to Generative AI Learning Path, Google Cloud](https://www.cloudskillsboost.google/paths/118).
-  10. [Arize University](https://courses.arize.com/courses/) hosts courses like llm-evaluation, llm agents tools and chains, llm-observability etc.
   
+  1. [Activeloop Learn](https://learn.activeloop.ai/), this initiative GenAI360 provides 3 free courses on RAGs, fine-tuning LLMs, LangChain and VectorDBs.
+  2. [LLM Course by Maxime Labonne](https://github.com/mlabonne/llm-course), Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+  3. [Hands on LLM Course](https://github.com/iusztinpaul/hands-on-llms), Learn about LLMs, LLMOps, and Vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system  source code + video & reading materials.
+  4. [Full Stack Deep Learning](https://fullstackdeeplearning.com/llm-bootcamp/), started out as a deep learning bootcamp and evolved into LLM bootcamp around April 2023, now is free to take up.
+  5. [LLM University by Cohere](https://docs.cohere.com/docs/llmu), this course consists of 8 modules taught by the famous Luis Serrano, who is known for teaching concepts in a easy and visually appealing manner. The course contains topics like fundamentals, deployment, semantic search and RAG.
+  6. [Deeplearning.ai Short Courses](https://www.deeplearning.ai/courses/), Short courses by DL.AI on various domains of LLMs and Generative AI. These short courses are really useful as they have the perfect blend of theoretical and practical sessions. The courses are usually made in collaborations with companies like Hugging Face, Mistral, OpenAI, Microsoft, Meta, Google etc.
+  7. [LLM Zoomcamp by DataTalksClub](https://github.com/DataTalksClub/llm-zoomcamp), LLM Zoomcamp - a free online course about building a Q&A system.
+  8. [Applied LLMs Mastery 2024 Course by Aishwarya N Reganti](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/Applied_LLMs_Mastery_2024), free 10 weeks course with a definite roadmap ranging from LLM Fundamentals, Tools and techniques, Deployment and evaluation to Challenges and future trends.
+  9. [Weights and Biases Courses](https://www.wandb.courses/collections), provides different courses on MLOps, LLM Powered Apps etc.
+  10. [LLM Models course, DataBricks x ed](https://www.edx.org/certificates/professional-certificate/databricks-large-language-models), professional certification by DataBricks.
+  11. [Deeplearning.ai](https://www.deeplearning.ai/short-courses/) offers various short courses on LLMs like LangChain for LLM App Development, Serverless LLMs with AWS Bedrock, Fine-tuning LLMs, LLMs with Semantic Search etc.
+  12. [Introduction to Generative AI Learning Path, Google Cloud](https://www.cloudskillsboost.google/paths/118).
+  13. [Arize University](https://courses.arize.com/courses/) hosts courses like llm-evaluation, llm agents tools and chains, llm-observability etc.
+
 </details>
+  
 
 <details>
   <summary><b>University Courses</b></summary>
   1. [CS 324, Stanford](https://stanford-cs324.github.io/winter2022/)
   2. [COMP790-101: Large Language Models, UNC Chapel Hill](https://github.com/craffel/llm-seminar)
-  3. [COS 597G, Princeton](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
-  4. [Large Language Models S-23, ETH Zurich](https://rycolab.io/classes/llm-s23/)
-  5. [Foundations of Large Language Models, University of Waterloo](https://uwaterloo.ca/watspeed/programs-and-courses/foundations-large-language-models)
+  3. [Large Language Models S-23, ETH Zurich](https://rycolab.io/classes/llm-s23/)
+  4. [Foundations of Large Language Models, University of Waterloo](https://uwaterloo.ca/watspeed/programs-and-courses/foundations-large-language-models)
 </details>
 
 
 ## Books
+
+1. [Natural Language Processing with Transformers Book](https://transformersbook.com/)
+2. 
 
 ## Blogs and Guides
 
