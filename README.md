@@ -1,10 +1,17 @@
-# Self Learn LLMs
+# 🏫🙋🏻Self Learn LLMs
 
 This repository constitutes some of the resources which I will use to learn about Large Language Models. I will also try to come up with a roadmap as I go forward in this self-learning journey, since a clear roadmap with milestones will be one of the best ways to learn about LLMs in a proper manner. 
 
 For this, I will include a mix of theoretical and practical hands-on resources to learn.
 
 **PS:** Need to make this more visual 
+
+**Edit: 6th Nov 2024**
+- [ ] Need to majorly refactor the repository.
+- [ ] Remove courses or resources that are not relevant.
+- [ ] In the model race, we can't go on listing models in the repository as it's tough to keep track of models and updates will make the previous models useless. Need to think of a better way to organize model zoo.
+- [ ] Maybe add 1-2 contributors or open the repository to contributions to help out.
+- [ ] How can we make it a gret learning experience, hosting notes and tutorials, open discussions, webpage?
 
 ## Courses
 
