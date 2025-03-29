@@ -49,17 +49,22 @@ For this, I will include a mix of theoretical and practical hands-on resources t
 
 <details>
   <summary><b>University Courses</b></summary>
+
   1. [CS 324, Stanford](https://stanford-cs324.github.io/winter2022/)
   2. [COMP790-101: Large Language Models, UNC Chapel Hill](https://github.com/craffel/llm-seminar)
   3. [Large Language Models S-23, ETH Zurich](https://rycolab.io/classes/llm-s23/)
   4. [Foundations of Large Language Models, University of Waterloo](https://uwaterloo.ca/watspeed/programs-and-courses/foundations-large-language-models)
+
 </details>
 
 
 ## Books
 
-1. [Natural Language Processing with Transformers Book](https://transformersbook.com/)
-2. 
+1. [Natural Language Processing with Transformers Book, by Lewis Tunstall, Leandro von Werra and Thomas Wolf](https://transformersbook.com/) | [Notebooks for the book](https://github.com/nlp-with-transformers/notebooks)
+2. [Build a Large Language Model (From Scratch), by Sebastian Raschka](https://www.manning.com/books/build-a-large-language-model-from-scratch) | [Official Code Repository for the book](https://github.com/rasbt/LLMs-from-scratch)
+3. [LLM Engineer's Handbook_ Master the art of engineering large language models from concept to production, by Paul Iusztin and Maxime Labonne ](https://www.packtpub.com/en-in/product/llm-engineers-handbook-9781836200062) | [Code for the book](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
+4. [Hands-On Large Language Models: Language Understanding and Generation, by Jay Alammar and Maarten Grootendorst](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) | [Code repository for the book](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+5. [AI Engineering: Building Applications with Foundation Models, by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) | [Resources for the book](https://github.com/chiphuyen/aie-book)
 
 ## Blogs and Guides
 
