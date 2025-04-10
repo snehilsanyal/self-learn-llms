@@ -22,7 +22,7 @@ For this, I will include a mix of theoretical and practical hands-on resources t
 
 ### 🤖 Transformers
 
-1. [HuggingFace NLP + Transformers Course](https://huggingface.co/learn/nlp-course)
+1. [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
 2. [CS25: Transformers United V2, Stanford](https://web.stanford.edu/class/cs25/) [CS25, Fall 2021 Version](https://web.stanford.edu/class/cs25/prev_years/2021_fall/)
 
 ### 🦜🗣️ Large Language Models
