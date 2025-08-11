@@ -11,7 +11,7 @@ For this, I will include a mix of theoretical and practical hands-on resources t
 - [ ] Remove courses or resources that are not relevant.
 - [ ] In the model race, we can't go on listing models in the repository as it's tough to keep track of models and updates will make the previous models useless. Need to think of a better way to organize model zoo.
 - [ ] Maybe add 1-2 contributors or open the repository to contributions to help out.
-- [ ] How can we make it a gret learning experience, hosting notes and tutorials, open discussions, webpage?
+- [ ] How can we make it a great learning experience, hosting notes and tutorials, open discussions, webpage?
 
 ## Courses
 
@@ -34,7 +34,7 @@ For this, I will include a mix of theoretical and practical hands-on resources t
   2. [LLM Course by Maxime Labonne](https://github.com/mlabonne/llm-course), Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
   3. [Hands on LLM Course](https://github.com/iusztinpaul/hands-on-llms), Learn about LLMs, LLMOps, and Vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system  source code + video & reading materials.
   4. [Full Stack Deep Learning](https://fullstackdeeplearning.com/llm-bootcamp/), started out as a deep learning bootcamp and evolved into LLM bootcamp around April 2023, now is free to take up.
-  5. [LLM University by Cohere](https://docs.cohere.com/docs/llmu), this course consists of 8 modules taught by the famous Luis Serrano, who is known for teaching concepts in a easy and visually appealing manner. The course contains topics like fundamentals, deployment, semantic search and RAG.
+  5. [LLM University by Cohere](https://cohere.com/llmu), this course consists of 9 modules taught by the famous Luis Serrano, who is known for teaching concepts in a easy and visually appealing manner. The course contains topics like fundamentals, deployment, semantic search and RAG.
   6. [Deeplearning.ai Short Courses](https://www.deeplearning.ai/courses/), Short courses by DL.AI on various domains of LLMs and Generative AI. These short courses are really useful as they have the perfect blend of theoretical and practical sessions. The courses are usually made in collaborations with companies like Hugging Face, Mistral, OpenAI, Microsoft, Meta, Google etc.
   7. [LLM Zoomcamp by DataTalksClub](https://github.com/DataTalksClub/llm-zoomcamp), LLM Zoomcamp - a free online course about building a Q&A system.
   8. [Applied LLMs Mastery 2024 Course by Aishwarya N Reganti](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/Applied_LLMs_Mastery_2024), free 10 weeks course with a definite roadmap ranging from LLM Fundamentals, Tools and techniques, Deployment and evaluation to Challenges and future trends.
@@ -84,6 +84,10 @@ For this, I will include a mix of theoretical and practical hands-on resources t
 2. [[1hr talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g): 1 hour YouTube video by Andrej Karpathy on Introduction to LLMs.
 3. [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE): 2 hour long YouTube video by Andrej Karpathy on building the GPT Tokenizer.
 4. [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU): 4 hour long YouTube Video by Andrej Karpathy on reproducing GPT-2 (124M model).
+5. [Foundational Robustness of Foundation Models](https://nips.cc/virtual/2022/tutorial/55796): Neurips 2022 Tutorial.
+6. [Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440): ICML 2022 Tutorial.
+7. [GPT in 60 lines of Numpy](https://jaykmody.com/blog/gpt-from-scratch/): GPT implemented from scratch in Numpy by Jay Mody.
+8. [LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md): 
 
 
 ## Libraries, Frameworks and Toolkits
